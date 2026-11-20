@@ -1,4 +1,4 @@
-# ExpNo 5 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game
+# ExpNo 6 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game
 # Name: L Ganesh Kanna
 # Register Number: 212225230072
 
